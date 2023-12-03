@@ -24,8 +24,14 @@ namespace WinFormsApp5
 
         private void button2_Click(object sender, EventArgs e)
         {
+            add();
             Form11 f11 = new Form11();
             f11.Show();
+        }
+
+        private void add()
+        {
+
         }
     }
 }
